@@ -9,6 +9,7 @@
 #define Scheduler_hpp
 
 #include <vector>
+#include <cstdint>
 
 #include "Interfaces.h"
 
