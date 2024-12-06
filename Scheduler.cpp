@@ -5,6 +5,11 @@
 //  Created by ELMOOTAZBELLAH ELNOZAHY on 10/20/24.
 //
 
+// 
+// "main" scheduling algorithm created by David Bockelman, mb64566
+// Github repo link: https://github.com/davidbockelman/cloudsim_eec
+// 
+
 #include "Scheduler.hpp"
 #include <unordered_map>
 #include <algorithm>
