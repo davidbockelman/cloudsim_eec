@@ -4,3 +4,4 @@ For questions, please reach out to any of the course staff on via email (anish.p
 
 Semester Project Submission by David Bockelman mb64566.
 I implemented one algorithm "main" located in Scheduler.cpp
+My BEST file reflects the "main" algorithm running the "GentlerHour" workload
